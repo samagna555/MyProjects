@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lWNR024wq9bSU6bort37K1BNNy027m13Ys2pPotjgurjtQB31bNEwJO8llW+jUpJXYCvMKJFSuGPXCZp/2yFWQ==",
+  "dgSpecHash": "5vtnQdIvg1fAIxL+UBzVY9EQ/S1oSlHgGokGaL62lX357eDnoq8r1yYcZC8socNZlJ7WoNN7KgvVzRARK1UteA==",
   "success": true,
   "projectFilePath": "/Users/sandeepbodhankar/Projects/SamagnaSagamBVProj/SamagnaSagamBVProj/SamagnaSagamBVProj.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "/Users/sandeepbodhankar/.nuget/packages/microsoft.extensions.options/2.1.1/microsoft.extensions.options.2.1.1.nupkg.sha512",
     "/Users/sandeepbodhankar/.nuget/packages/microsoft.extensions.primitives/2.1.1/microsoft.extensions.primitives.2.1.1.nupkg.sha512",
     "/Users/sandeepbodhankar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sandeepbodhankar/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/sandeepbodhankar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.2/swashbuckle.aspnetcore.swagger.6.2.2.nupkg.sha512",
     "/Users/sandeepbodhankar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.2/swashbuckle.aspnetcore.swaggergen.6.2.2.nupkg.sha512",
     "/Users/sandeepbodhankar/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",

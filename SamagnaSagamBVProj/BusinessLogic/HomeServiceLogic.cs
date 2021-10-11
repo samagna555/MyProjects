@@ -31,7 +31,7 @@ namespace SamagnaSagamBVProj.BusinessLogic
                     _logger.LogInformation("Successfully connected to the endpoint");
                     result = GetDataByAge(apiresponse);
 
-                    return result;
+                    return "age:count" + "\n" + result;
 
                 }
                 else
